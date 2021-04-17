@@ -1,0 +1,24 @@
+.App {
+  text-align: center;
+  margin: 0 20px 0 20px;
+}
+
+.d-blockw-100 {
+  width: 450px;
+  height: 400px;
+}
+
+h3 {
+  color: blue;
+}
+p {
+  color: yellow;
+}
+.list-group {
+  flex-direction: column;
+  padding-left: 0;
+  margin-bottom: 0;
+  margin-right: 1149px;
+  border-radius: 0.25rem;
+  width: 145px;
+}
